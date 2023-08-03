@@ -35,4 +35,4 @@ In this Airbnb project, I developed a comprehensive multi-page dashboard in powe
 
 Source of data: http://insideairbnb.com/get-the-data/
 
-**Excel files used, python code used to process the data and the final Power BI dashboard can be found in the file attachments**
+**Python code used to process the data and the final Power BI dashboard can be found in the file attachments**
